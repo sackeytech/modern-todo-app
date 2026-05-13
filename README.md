@@ -41,7 +41,14 @@ While building this project, I solidified my understanding of several core JavaS
 * **The `this` Keyword:** Passing specific DOM elements into functions to target the correct task card for editing and deleting.
 * **Form Data Handling:** Capturing input values and managing the transition between "Add" and "Edit" states using a single, dynamic form.
 
-##  Preview
+##  Interface Preview
+
+### Dashboard View
+![Main Dashboard](to%20do%20list%20dashboard.png)
+
+### Task Entry Workflow
+![New Task Modal](the%20to%20do%20list%20data.png)
+
 
 
 
